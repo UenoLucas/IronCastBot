@@ -1,5 +1,5 @@
 # IronCastBot
-This is my college thesis. It's a way to evaluate ductile iron castings based on optical microscopy images. A graphical interface was developed using TKinter, and image processing was done using OpenCv.
+This is my college conclusion work. It's a way to evaluate ductile iron castings based on optical microscopy images. A graphical interface was developed using TKinter, and image processing was done using OpenCv.
 
 # Features
 Analysis of nodularity percentage, density per mm2, and nodules distribution by size class for optical microscopy of ductile iron following ASTM A247 16a and E2567 16a standards.
