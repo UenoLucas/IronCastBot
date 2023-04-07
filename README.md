@@ -2,7 +2,7 @@
 This is my college thesis. It's a way to evaluate ductile iron castings based on optical microscopy images. A graphical interface was developed using TKinter, and image processing was done using OpenCv.
 
 # Features
-Analysis of nodularity percentage, density per mm2, and nodules distribution by size class for optical microscopy of ductile iron castings following ASTM A247 16a and E2567 16a standards.
+Analysis of nodularity percentage, density per mm2, and nodules distribution by size class for optical microscopy of ductile iron following ASTM A247 16a and E2567 16a standards.
 
 # Technologies Used
 Python, Image Processing, Tesseract OCR, Tkinter, ImageDataExtractor.
@@ -20,13 +20,24 @@ So if you want:
 1. Clone the repository to your local machine.
 2. Open a terminal and navigate to the project directory.
 3. Create a virtual environment for the project:
-python -m venv ironcastbot_env
+```
+python -m venv ironcastbot_env`
+```
 4. Activate the virtual environment:
+```
 <path>/ironcastbot_env/bin/activate.bat
+```
 5. Install the project dependencies:
+```
 pip install -r requirements.txt
+```
 
 # Usage
+In your prompt with the virtual enviroment activate go to the directory and run InterfaceTkinter:
+```
+python InterfaceTkinter.py
+```
+So this window will show in screen:
 
 ![Screenshot of UI  of IronCastBot](https://dsm01pap007files.storage.live.com/y4mV3_AHbNOXDyE0HmbJSgR4ZS2bcHqhjF1pOgWDgcARtSQ6Bt6zyUPcFpTvdLpjtk4oIvZTX6zTKDISRGRGDI5vjf2ybIQGFaBRHfDEnWiEeF-bs8lejC2FxOxNjMlFxCKFwKLVkYyO_yZ8VGL1lJkbfw51KbabJGouSx0bdv_SRmAqIfqMmt4qMBP7MAISLE6R_BLydHESlS1I3uIX7hP-o2oboDi6PrMcRV0YyEwe6E?encodeFailures=1&width=763&height=511)
 
