@@ -39,7 +39,7 @@ python InterfaceTkinter.py
 ```
 So this window will show in screen:
 
-![Screenshot of UI  of IronCastBot](https://dsm01pap007files.storage.live.com/y4mV3_AHbNOXDyE0HmbJSgR4ZS2bcHqhjF1pOgWDgcARtSQ6Bt6zyUPcFpTvdLpjtk4oIvZTX6zTKDISRGRGDI5vjf2ybIQGFaBRHfDEnWiEeF-bs8lejC2FxOxNjMlFxCKFwKLVkYyO_yZ8VGL1lJkbfw51KbabJGouSx0bdv_SRmAqIfqMmt4qMBP7MAISLE6R_BLydHESlS1I3uIX7hP-o2oboDi6PrMcRV0YyEwe6E?encodeFailures=1&width=763&height=511)
+![Screenshot of UI  of IronCastBot](https://dsm01pap007files.storage.live.com/y4mrZjFstBUgZZdlj-lusIS_G4Fgv2qeJfDXs7yRG2rXMu1mFm0rD-ZIHt6CvMhY7c9shIB-0S2fz2Ghwju1UDYtDuUYcHBwmfck3YjnnscPZoxcFUK8oJgqQnXJ5DLtBBp0ZCIbNS_NIg1xdB2FMjpYsZ7oW3BKMFaDbsiwmkp2KiWjPg-5tAj2SEBe2DstB0q8OfoVhak6_2M3ITCuS3BDPpSMxO7sAWZMuSywgP5_98?encodeFailures=1&width=1222&height=820)
 
 Initially, there is a listbox for inserting the directory or optical microscopy image. Choose the image and then adjust the threshold levels if necessary and press enter, particularly for the threshold of mask to remove the scale and possible voids or shrinkage defects, for example. 
 
